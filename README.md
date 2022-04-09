@@ -78,7 +78,7 @@ Now, access the domain using the EC2 IP or EC2 hostname and set up the site:
  >![image](https://user-images.githubusercontent.com/100773863/162557184-82a618d3-422b-4122-9eff-3a60327da29b.png)
 
 
-Conclusion
+## Conclusion
 This is how we create wordpress site using docker. Please contact me when you encounter any difficulty error while using this terrform code. Thank you and have a great day!
 
 
