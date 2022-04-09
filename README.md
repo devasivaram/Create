@@ -4,6 +4,9 @@
 
 Here we create custom wordpress using docker. We use docker volume, MySQL docker image and WordPress docker image. Let's move on to the process.
 
+![image](https://user-images.githubusercontent.com/100773863/162557652-ce6e3595-85cb-410b-b430-3c95a028e026.png)
+
+
 ## Installation
 
 If you need to download docker to the EC2 instance, then follow this:
